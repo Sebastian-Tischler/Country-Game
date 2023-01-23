@@ -20,6 +20,6 @@ Built With
 Flask - The web framework used
 
 Author
-Your Name - Your Github Profile
+Sebastian Tischler - [My Github Profile](https://github.com/Sebastian-Tischler)
 
 Enjoy the game.
