@@ -1,5 +1,5 @@
 # Country Size Quiz
-This is a simple Flask web application that creates a game where users are presented with two random countries from a list and must guess which country has a higher population.
+This is a simple Flask web application that creates a game where users are presented with two random countries from a list and must guess which country is bigger.
 
 Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
