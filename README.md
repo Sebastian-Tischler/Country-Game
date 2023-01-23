@@ -1,13 +1,13 @@
 # Country Size Quiz
 This is a simple Flask web application that creates a game where users are presented with two random countries from a list and must guess which country is bigger.
 
-Getting Started
+### Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-Prerequisites
+### Prerequisites
 -	Python 3
 -	Flask
-Installing
+### Installing
 1.	Clone the repository to your local machine
 o	git clone https://github.com/Sebastian-Tischler/Country-Game.git
 2.	Install the required packages
@@ -16,10 +16,10 @@ o	pip install -r requirements.txt
 o	python app.py
 The application will now be running on http://localhost:5000
 
-Built With
+### Built With
 Flask - The web framework used
 
-Author
+### Author
 Sebastian Tischler - [My Github Profile](https://github.com/Sebastian-Tischler)
 
-Enjoy the game.
+##### Enjoy the game!
