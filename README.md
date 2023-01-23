@@ -9,7 +9,7 @@ Prerequisites
 -	Flask
 Installing
 1.	Clone the repository to your local machine
-o	git clone https://github.com/yourusername/population-quiz.git
+o	git clone https://github.com/Sebastian-Tischler/Country-Game.git
 2.	Install the required packages
 o	pip install -r requirements.txt
 3.	Run the application
